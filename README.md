@@ -192,10 +192,6 @@ Do not include passwords, private keys, or other secrets in screenshots. If a co
 01-secure-enterprise-network/
 ├── README.md
 ├── 01-Secure-Enterprise-Network.pkt
-├── configs/
-│   ├── R1.txt
-│   ├── SW1.txt
-│   └── SW2.txt
 ├── evidence/
 │   ├── 01-topology.png
 │   ├── 02-vlan-and-trunks.png
@@ -204,8 +200,7 @@ Do not include passwords, private keys, or other secrets in screenshots. If a co
 │   ├── 05-ssh-management-acl.png
 │   ├── 06-intranet-http-dns.png
 │   └── 07-disabled-ports.png
-└── docs/
-    └── test-results.md
+└── Project-01-Secure-Enterprise-Network-Documentation.pdf
 ```
 
 The `.pkt`, README, and screenshots are the essential first version. Configuration exports are optional; review and sanitize them before publishing.
