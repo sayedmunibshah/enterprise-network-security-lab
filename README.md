@@ -165,7 +165,7 @@ The first ping to the server timed out, while the following three succeeded. Thi
 
 ## 8. Evidence screenshots
 
-Capture the following screenshots from Packet Tracer. Keep screenshots readable and crop out unrelated desktop content.
+Captured the following screenshots from Packet Tracer.
 
 1. `01-topology.png` — entire topology and device labels.
 2. `02-vlan-and-trunks.png` — `show vlan brief` and `show interfaces trunk`.
@@ -174,8 +174,6 @@ Capture the following screenshots from Packet Tracer. Keep screenshots readable 
 5. `05-ssh-management-acl.png` — `show ip ssh` and `show access-lists IT-MANAGEMENT` on switches.
 6. `06-intranet-http-dns.png` — browser showing intranet by DNS name; optionally also capture IP URL.
 7. `07-disabled-ports.png` — `show interfaces status` showing unused ports disabled.
-
-Do not include passwords, private keys, or other secrets in screenshots. If a configuration view contains credentials, crop or redact that part.
 
 ## 9. Limitations and possible next steps
 
@@ -203,7 +201,7 @@ Do not include passwords, private keys, or other secrets in screenshots. If a co
 └── Project-01-Secure-Enterprise-Network-Documentation.pdf
 ```
 
-The `.pkt`, README, and screenshots are the essential first version. Configuration exports are optional; review and sanitize them before publishing.
+The `.pkt`, README, and screenshots are the essential first version. Configuration exports are optional.
 
 ## 11. Why this project is useful
 
