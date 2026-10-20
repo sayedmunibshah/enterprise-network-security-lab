@@ -96,7 +96,7 @@ SRV1 is `192.168.50.10/24`, gateway `192.168.50.1`, and DNS server `192.168.50.1
 
 ## 6. Verification commands
 
-Run these in the **CLI tab of the relevant Packet Tracer device**. They are Cisco IOS commands, not Ubuntu shell commands.
+Run these in the **CLI tab of the relevant Packet Tracer device**. They are Cisco IOS commands.
 
 ### On R1
 ```text
